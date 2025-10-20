@@ -15,9 +15,13 @@ Using the Nexys4 FPGA Development Board, design and develop a functional digital
 Board Layout & Controls Overview: The Nexys A7 programmable logic board has seven programmable pushbuttons and sixteen programmable switches for human-machine interfacing. 
 Key Components and Their Functions:
 Start (V10): Starts the stopwatch.
+
 Stop (U11): Stops the stopwatch.
+
 Reset (J15): Resets the stopwatch .
+
 7-Segment Display: Dynamically displays the stopwatch time 
+
 Auto Clock (E3): Manages automatic timing synchronization.
 
 
